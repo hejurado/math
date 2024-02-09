@@ -1,5 +1,6 @@
 # A caucus-race and a long tale
 
 $$\int_{0}^{\pi}x^2 \,dx$$
+$\frac{a}{b}\sqrt{x}$
 
 $E = mc^2$
