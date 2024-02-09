@@ -1,6 +1,6 @@
 --- 
 title: "Math"
-author: "YOUR NAME HERE"
+author: "Hector H. Jurado S"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---

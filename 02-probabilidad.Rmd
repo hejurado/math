@@ -1,0 +1,12 @@
+# Probabilidad
+
+
+```{definition, label, name="Theorem name"}
+El espacion muestral $S$ de un experimento es el  conjunto de todas las posibles resultados de un experimiento. Un evento $A$  es un subconjunto del espacio muestral  $S$,  y decimos que $A$ ha ocurrido  si el resultado esta en $A$
+
+```
+
+
+
+
+$E = mc^2$  
