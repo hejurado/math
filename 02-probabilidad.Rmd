@@ -9,4 +9,6 @@ El espacion muestral $S$ de un experimento es el  conjunto de todas las posibles
 
 
 
-$E = mc^2$  
+$E = mc^2$ 
+
+$E$
